@@ -1,4 +1,5 @@
 language: java
-script: ant build,travis5
+script: 
+-ant build
 
 
